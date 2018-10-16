@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="app_title">Registration</string>
+
+    <string name="form_text">Isi ini dari untuk mendaftar sebagai pengguna</string>
+    <string name="form_name">Nama lengkap</string>
+    <string name="form_email">alamat email</string>
+    <string name="form_phone">nomor telepon</string>
+    <string name="form_pwd">Password</string>
+    <string name="form_check">Saya telah membaca dan menyetujui ketentuan</string>
+    <string name="form_sub">MENYERAHKAN</string>
+    <string name="form_lang">ubah bahasa</string>
+</resources>
